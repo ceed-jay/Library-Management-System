@@ -1,0 +1,28 @@
++-----------------------+      +----------------------+
+|        Library        |      |       Database       |
++-----------------------+      +----------------------+
+| - books: vector<Book> |<>--- | - instance: Database |
++-----------------------+      +----------------------+
+| + addBook(Book)       |      | + getInstance()       |
+| + removeBook(int)     |      | + executeQuery()      |
+| + findBook(int)       |      +----------------------+
+| + listBooks()         |
++-----------------------+
+          |
+          |
+          v
++----------------------+
+|        Book          |
++----------------------+
+| - id: int            |
+| - title: string      |
+| - author: string     |
+| - isCheckedOut: bool |
++----------------------+
+| + checkout()         |
+| + returnBook()       |
+| + getId()            |
+| + getTitle()         |
+| + getAuthor()        |
+| + isAvailable()      |
++----------------------+

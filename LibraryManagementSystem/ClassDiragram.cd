@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Library" Collapsed="true">
+    <Position X="2.75" Y="1.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAACEAAAAIIAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Library.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Database" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAQAAAAAAAAABAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Database.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Book" Collapsed="true">
+    <Position X="2.75" Y="3.75" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAEQAAAAEBAAAACAIAAAAAAIAAAgAAAABAAAgA=</HashCode>
+      <FileName>Book.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
