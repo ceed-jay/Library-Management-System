@@ -57,7 +57,6 @@ Singleton Pattern:
 Ensures there’s only one LibraryManager instance, centralizing the management of book operations and preventing inconsistencies.
 
 ## Diagrams
-<br>
 See the diagrams/ folder for:
 <br>
 	• 🟢	Class Diagram
