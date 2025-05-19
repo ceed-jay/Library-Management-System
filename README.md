@@ -27,7 +27,7 @@ This is a simple, console-based Library Management System developed in C++. It a
 <br>
 <br>
 <br>
-## Usage Workflow
+Usage Workflow
 <br>
 <br>
 	1.	💻 Launch the application.
